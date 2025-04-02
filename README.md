@@ -28,7 +28,7 @@ Self-ReS introduces independent reflection paths, where each path processes a di
 @inproceedings{pereira2025selfres,
   title={Self-ReS: Self-Reflection in Large Vision-Language Models for Long Video Understanding},
   author={Pereira, João and Lopes, Vasco and Semedo, David and Neves, João},
-  booktitle={Proceedings of...},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)},
   year={2025}
 }
 ```
